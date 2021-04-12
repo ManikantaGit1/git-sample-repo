@@ -1,0 +1,41 @@
+
+
+Pytest:
+
+Run one method from a file.
+ py.test -v -s test_demo_pytest.py::test_Test2
+
+-v Verbose ( to print the info about the drivers or softwares as much info)
+
+-s to print the statement
+
+Run all the tests from a file.
+Py.test -v -s
+
+Pytest:
+
+Run one method from a file.
+ py.test -v -s test_demo_pytest.py::test_Test2
+
+-v Verbose ( to print the info about the drivers or softwares as much info)
+
+-s to print the statement
+
+Run all the tests from a file.
+Py.test -v -s
+
+
+
+
+
+
+
+
+
+Hello
+Hi
+Get
+Sdjlasd
+Sdjkljasd
+Sjakldjas
+shaldj
