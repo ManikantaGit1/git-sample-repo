@@ -1,0 +1,122 @@
+2021/04/11 18:43:58: <module>: INFO: Run Once before all the test
+2021/04/11 18:44:03: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:44:04: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:44:04: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:44:04: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:44:09: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:44:09: SeleniumDriver: INFO: waitclick button was sucessfully clicked
+2021/04/11 18:44:14: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:44:14: <module>: INFO: Running tests on MacOs
+2021/04/11 18:44:14: <module>: INFO: Run before every test
+2021/04/11 18:44:14: PurchaseProduct: INFO: element found IsElementPresent
+2021/04/11 18:44:19: PurchaseProduct: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:44:19: PurchaseProduct: INFO: waitVisible Button successfully clicked
+2021/04/11 18:44:19: PurchaseProduct: INFO: Item Added to the Cart
+2021/04/11 18:44:19: PurchaseProduct: INFO: element found IsElementPresent
+2021/04/11 18:44:19: PurchaseProduct: INFO: The Number of Items in The Kart are :: 1
+2021/04/11 18:44:19: PurchaseProduct: INFO: element found IsElementPresent
+2021/04/11 18:44:19: PurchaseProduct: INFO: Items present in Kart is :: Sauce Labs Backpack
+2021/04/11 18:44:19: PurchaseProduct: INFO: Scrolled up
+2021/04/11 18:44:24: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:44:24: SeleniumDriver: INFO: waitVisible Button successfully clicked
+2021/04/11 18:44:29: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:44:29: SeleniumDriver: INFO: waitclick button was sucessfully clicked
+2021/04/11 18:44:29: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:44:29: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:44:29: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:44:29: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:44:29: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:44:29: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:44:35: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:44:35: SeleniumDriver: INFO: waitclick button was sucessfully clicked
+2021/04/11 18:44:35: PurchaseProduct: INFO: Scrolled down
+2021/04/11 18:44:40: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:44:40: SeleniumDriver: INFO: waitclick button was sucessfully clicked
+2021/04/11 18:44:40: PurchaseProduct: INFO: Scrolled up
+2021/04/11 18:44:45: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:44:45: SeleniumDriver: INFO: waitclick button was sucessfully clicked
+2021/04/11 18:44:45: <module>: INFO: 
+Run after every test
+2021/04/11 18:44:45: <module>: INFO: Run before every test
+2021/04/11 18:44:45: PurchaseProduct: INFO: element found IsElementPresent
+2021/04/11 18:44:50: PurchaseProduct: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:44:50: PurchaseProduct: INFO: waitVisible Button successfully clicked
+2021/04/11 18:44:50: PurchaseProduct: INFO: Item Added to the Cart
+2021/04/11 18:44:50: PurchaseProduct: INFO: element found IsElementPresent
+2021/04/11 18:44:50: PurchaseProduct: INFO: The Number of Items in The Kart are :: 1
+2021/04/11 18:44:50: PurchaseProduct: INFO: element found IsElementPresent
+2021/04/11 18:44:50: PurchaseProduct: INFO: Items present in Kart is :: Sauce Labs Backpack
+2021/04/11 18:44:50: PurchaseProduct: INFO: Scrolled up
+2021/04/11 18:44:55: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:44:55: SeleniumDriver: INFO: waitVisible Button successfully clicked
+2021/04/11 18:45:00: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:45:00: SeleniumDriver: INFO: waitclick button was sucessfully clicked
+2021/04/11 18:45:00: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:00: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:45:00: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:00: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:45:00: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:00: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:45:00: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:01: SeleniumDriver: INFO: FAILURE!! and 
+ screenshot saved in path::/Users/manikantauttarkar/PycharmProjects/workspace/automation_framework/screenshots/0.7752776152772582.png
+2021/04/11 18:45:01: SeleniumDriver: INFO: waitclick button was sucessfully clicked
+2021/04/11 18:45:01: PurchaseProduct: INFO: Scrolled down
+2021/04/11 18:45:13: SeleniumDriver: INFO: exception Wait function in Selenium Driver ClassMessage: 
+
+2021/04/11 18:45:13: PurchaseProduct: INFO: Scrolled up
+2021/04/11 18:45:25: SeleniumDriver: INFO: exception Wait function in Selenium Driver ClassMessage: 
+
+2021/04/11 18:45:25: <module>: INFO: 
+Run after every test
+2021/04/11 18:45:25: <module>: INFO: 
+Run Once after all the test
+2021/04/11 18:45:25: <module>: INFO: Run Once before all the test
+2021/04/11 18:45:30: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:30: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:45:30: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:30: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:45:36: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:45:36: SeleniumDriver: INFO: waitclick button was sucessfully clicked
+2021/04/11 18:45:41: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:45:41: <module>: INFO: Running tests on MacOs
+2021/04/11 18:45:41: <module>: INFO: Run before every test
+2021/04/11 18:45:41: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:46: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:45:46: SeleniumDriver: INFO: 
+Method Name::ElementClick
+Class Name::<class 'pages.home.login_page.LoginPage'>not all arguments converted during string formatting
+2021/04/11 18:45:46: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:51: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:45:51: SeleniumDriver: INFO: 
+Method Name::ElementClick
+Class Name::<class 'pages.home.login_page.LoginPage'>not all arguments converted during string formatting
+2021/04/11 18:45:51: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:51: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:45:51: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:51: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:45:51: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:51: SeleniumDriver: INFO: FAILURE!! and 
+ screenshot saved in path::/Users/manikantauttarkar/PycharmProjects/workspace/automation_framework/screenshots/0.9935474029825332.png
+2021/04/11 18:45:51: SeleniumDriver: INFO: waitclick button was sucessfully clicked
+2021/04/11 18:45:51: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:52: SeleniumDriver: INFO: FAILURE!! and 
+ screenshot saved in path::/Users/manikantauttarkar/PycharmProjects/workspace/automation_framework/screenshots/0.5035839044865805.png
+2021/04/11 18:45:52: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:52: LoginTests: INFO: Login Failed
+2021/04/11 18:45:52: <module>: INFO: 
+Run after every test
+2021/04/11 18:45:52: <module>: INFO: Run before every test
+2021/04/11 18:45:52: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:52: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:45:52: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:45:52: SeleniumDriver: INFO: Values passed to the fieldSendKeys
+2021/04/11 18:45:57: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:45:57: SeleniumDriver: INFO: waitclick button was sucessfully clicked
+2021/04/11 18:46:02: SeleniumDriver: INFO: No ScreenShot Taken!! No Errors
+2021/04/11 18:46:02: SeleniumDriver: INFO: element found IsElementPresent
+2021/04/11 18:46:02: LoginTests: INFO: Login Successfull
+2021/04/11 18:46:02: <module>: INFO: 
+Run after every test
+2021/04/11 18:46:02: <module>: INFO: 
+Run Once after all the test
